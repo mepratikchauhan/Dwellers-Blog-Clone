@@ -107,4 +107,7 @@ footer{
     #link-and-address .contact,.social{
         padding-top: 25px;
     }
+    nav img{
+        height: 10vh;
+    }
 }
