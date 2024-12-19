@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Raleway';
+    src:url('font/Raleway-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+body{
+    font-family: "Raleway";
+}
+/* Navbar Start */
+#toggle-button{
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2.5px;
+}
+/* Navbar end */
+
+/* Hero Section Start */
+.hero-slider h1{
+    font-weight: bold;
+    font-size: 55px;
+
+}
+/* Hero Section End */
+
+
+/* Cards Start */
+#cards .btn{
+   font-size: 16px;
+   font-weight: 600;
+}
+/* Cards End */
