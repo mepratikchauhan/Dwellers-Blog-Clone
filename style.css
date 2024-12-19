@@ -102,12 +102,15 @@ footer{
     nav{
         background-color: #fff;
     };
+    nav img{
+        height: 80px;
+    }
 }
 @media (max-width:573px) {
     #link-and-address .contact,.social{
         padding-top: 25px;
     }
     nav img{
-        height: 10vh;
+        height: 70px;
     }
 }
